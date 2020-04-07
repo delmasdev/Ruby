@@ -1,2 +1,2 @@
 # Ruby
-Exo Ruby de Delmas Jérémy
+Exos Ruby de Delmas Jérémy
